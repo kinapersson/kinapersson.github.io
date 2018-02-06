@@ -41,7 +41,7 @@ header.startup h1 {
   text-transform: uppercase;
   border-radius: 20px;
   font-family: 'Noto Serif', serif;
-  vertical-align: center;
+  vertical-align: middle;
 }
 
 .btn-xl {
