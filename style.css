@@ -36,12 +36,15 @@ header.startup h1 {
 }
 
 .btn {
-  margin-bottom: -270px;
+  position: fixed;
+  bottom: 50px;
+  left:50%;
+  transform: translateX(-50%);
   font-weight: 500;
   text-transform: uppercase;
   border-radius: 20px;
   font-family: 'Noto Serif', serif;
-  vertical-align: middle;
+  
 }
 
 .btn-xl {
